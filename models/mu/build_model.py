@@ -1234,7 +1234,7 @@ def write_valuation(years, cap, result, sens, sndk):
         ],
     ))
     a("")
-    a("Won closes are not translated. The Yonhap won fix at 15:30 on 2026-10-23 was ₩1,324.6 per dollar; a translated price without a filing multiple would not enter the table above.")
+    a("Prices quoted in Korean won are not translated into dollars. The Yonhap won fix at 15:30 on 2026-10-23 was ₩1,324.6 per dollar; a translated price without a filing multiple would not enter the table above.")
     a("")
     a("## 6. Reconciliation of methods")
     a("")

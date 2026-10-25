@@ -301,6 +301,6 @@ Magnitudes are what the filings quantify. Where the filing states the mechanism 
 - Q4 FY2026 prepared remarks, September 30, 2026. https://s25.q4cdn.com/621799436/files/doc_financials/2026/q4/Q4-FY26-Prepared-Remarks.pdf
 - Event page: https://investors.micron.com/events-and-presentations/event-details/2026/Microns-Fourth-Quarter-2026-Financial-Call/default.aspx
 
-**Not used as sources.** The GF-1 scan pitch. News articles. StockAnalysis, Finviz, and transcript aggregators. Any market-share or TAM figure that was not in a filing or an IR document.
+**Not used as sources for Micron’s reported figures.** The GF-1 scan pitch. News articles. StockAnalysis, Finviz, and transcript aggregators. Any market-share or TAM figure that was not in a filing or an IR document. Published analyst estimates are outside this file. They are polled, and sourced as a poll, in `consensus.md`. They are not inputs to the model.
 
 **Not obtained, consolidated.** Dollar industry TAM. DRAM, NAND, and HBM market shares for Micron and for Samsung, SK hynix, CXMT, YMTC, Kioxia, and Sandisk. HBM revenue dollars. Quarterly DRAM and NAND revenue except FQ4 FY2026A and the three fiscal years. Cost per bit. SCA floor prices. Customer names. FY2026 executive compensation. Sadana’s current role. Allowance for doubtful accounts. Full-year FY2027E capex dollars. A company-reported ROIC. October 2026 share price from a filing. Updated institutional 13F holdings.

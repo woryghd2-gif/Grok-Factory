@@ -10,5 +10,7 @@ As of 2026-10-25. This file points at the Gate 2 and Gate 3 outputs. It does not
 | [models/mu/balance.md](../../models/mu/balance.md) | Balance sheet. Assets equal liabilities plus equity in every year. |
 | [models/mu/cashflow.md](../../models/mu/cashflow.md) | Cash flow. Ending cash equals the balance sheet. |
 | [models/mu/valuation.md](../../models/mu/valuation.md) | 12-month value per share, DCF, sensitivity, comps, weights, sources. |
+| [memory/mu/thesis.md](thesis.md) | Gate 4 thesis. It points here and does not keep a second number set. |
+| [memory/mu/consensus.md](consensus.md) | Published estimates. Not an input to the script. |
 
 Historical years are FY2024A–FY2026A from `memory/mu/financials_raw.md`. Forecast years are FY2027E–FY2029E. The price target is the DCF rolled forward one year. It is not fitted to a rating, and the market price is not an input to it.

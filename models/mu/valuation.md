@@ -110,7 +110,7 @@ Multiples use a full reported year, a share count, and a net-cash bridge from th
 | YMTC | NAND. Named in the 10-K. Private. | not obtained | not obtained | not obtained | not obtained | No public share price. |
 | Max / median / min (n = 1) | Sandisk only. Not a peer-set statistic. | — | 14.51× | 16.78× | 8.88× | With one obtained observation, max = median = min. The row is disclosed and is not used in the target. |
 
-Won closes are not translated. The Yonhap won fix at 15:30 on 2026-10-23 was ₩1,324.6 per dollar; a translated price without a filing multiple would not enter the table above.
+Prices quoted in Korean won are not translated into dollars. The Yonhap won fix at 15:30 on 2026-10-23 was ₩1,324.6 per dollar; a translated price without a filing multiple would not enter the table above.
 
 ## 6. Reconciliation of methods
 
